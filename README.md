@@ -1,7 +1,8 @@
 # git-practice
-Git Practice repositoryyy  
+Git Practice repository  
 All content is taken from https://github.com/github/docs.  
 Fork this repository and practice!  
+OK
 
 ## GIT PRACTICE
 ### 1. Pull Request without conflict  
