@@ -1,5 +1,5 @@
 # git-practice
-Git Practice repository  
+This is Git Practice repository  
 All content is taken from https://github.com/github/docs.  
 Fork this repository and practice!  
 
